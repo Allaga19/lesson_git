@@ -17,6 +17,10 @@ body {background: #d2cbcb;}
 .through {
 	text-decoration: line-through;
 }
+.block {
+	background: #000;
+	color:#fff;
+}
 li {
 	font-size: 25px;
 }
