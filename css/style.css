@@ -1,0 +1,22 @@
+body {background: #d2cbcb;}
+.red {
+	color: red;
+}
+.blue {
+	color: blue;
+}
+.cvet {
+	color: #df88df;
+}
+.green {
+	color: green;
+}
+.yellow {
+	color: yellow;
+}
+.through {
+	text-decoration: line-through;
+}
+li {
+	font-size: 25px;
+}
